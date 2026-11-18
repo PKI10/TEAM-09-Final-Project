@@ -104,3 +104,4 @@ if __name__ == "__main__":
   sample_and_process(ginkgo_df, "ginkgo")
   sample_and_process(other_df, "other")
   print("\n모든 작업이 완료되었습니다!")
+  # learn
